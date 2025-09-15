@@ -63,4 +63,12 @@ This project involves writing SQL queries to analyze customer and order data for
 * VS Code or any text editor
 * PDF generator or Word processor
 
+<img width="1920" height="1080" alt="Screenshot 2025-09-13 203946" src="https://github.com/user-attachments/assets/7159db27-0074-4da8-89d5-3ebcd4747437" />
+
+
+
+
+
+
+
 
